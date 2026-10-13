@@ -12,7 +12,7 @@ solution:
   # List the packs that define the device and/or board.
   packs:
     - pack: ARM::CMSIS-Driver_STM32
-    - pack: ARM::CMSIS
+    - pack: ARM::CMSIS@6.4.0
     - pack: ARM::Cortex_DFP
     - pack: ARM::CMSIS-RTX
     - pack: ARM::CMSIS-Compiler
